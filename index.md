@@ -3,3 +3,5 @@
 ###### this is an H5 header
 
 blahy blah blah
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
